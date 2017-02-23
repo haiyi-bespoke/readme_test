@@ -1,6 +1,34 @@
 # Widgets Description
 
-[Top 10 Subcontractors by Exposure to GC](#top-10-subcontractors-by-exposure-to-gc)
+## Table of Contents  
+- [GC Widgets](#gc-widgets)
+  - [Active Projects](#active-projects)
+  - [Average Q Score](#average-q-score)
+  - [Subs With Liens](#subs-with-liens)
+  - [Active GC Subs](#active-gc-subs)
+  - [Total Project Valuation](#total-project-valuation)
+  - [Total Active Contracts](#total-active-contracts)
+  - [Subs With Stale Data](#subs-with-stale-data)
+  - [Subs Scored](#subs-scored)
+  - [Data Completeness](#data-completeness)
+  - [Q Score By Trades](#q-score-by-trades)
+  - [Valuation By Trade](#valuation-by-trade)
+  - [Provincial Exposure by QScore](#provincial-exposure-by-qscore)
+  - [Provincial Exposure by Dollar](#provincial-exposure-by-dollar)
+  - [Top 10 Subcontractors by Number of Contract](#top-10-subcontractors-by-number-of-contract)
+  - [Top 10 Subcontractors With Largest Dollar Contract](#top-10-subcontractors-with-largest-dollar-contract)
+  - [Top 10 Subcontractors by Exposure to GC](#top-10-subcontractors-by-exposure-to-gc)
+- [SUB Widgets](#sub-widgets)
+  - [General Details](#general-details)
+  - [Q Score Breakdown](#q-score-breakdown)
+  - [Key Ratios](#key-ratios)
+  - [Similar Subs](#similar-subs)
+  - [Active Contracts](#active-contracts)
+  - [Lumbermens Credit Report](#lumbermens-credit-report)
+  - [Executive Focus](#executive-focus)
+  - [Company Structure](#company-structure)
+
+
 
 ## GC Widgets
 
