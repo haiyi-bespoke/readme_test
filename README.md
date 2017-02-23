@@ -1,39 +1,29 @@
 # Widgets Description
 
-## Table of Contents  
-- [GC Widgets](#gc-widgets)
-  - [Active Projects](#active-projects)
-  - [Average Q Score](#average-q-score)
-  - [Subs With Liens](#subs-with-liens)
-  - [Active GC Subs](#active-gc-subs)
-  - [Total Project Valuation](#total-project-valuation)
-  - [Total Active Contracts](#total-active-contracts)
-  - [Subs With Stale Data](#subs-with-stale-data)
-  - [Subs Scored](#subs-scored)
-  - [Data Completeness](#data-completeness)
-  - [Q Score By Trades](#q-score-by-trades)
-  - [Valuation By Trade](#valuation-by-trade)
-  - [Provincial Exposure by QScore](#provincial-exposure-by-qscore)
-  - [Provincial Exposure by Dollar](#provincial-exposure-by-dollar)
-  - [Top 10 Subcontractors by Number of Contract](#top-10-subcontractors-by-number-of-contract)
-  - [Top 10 Subcontractors With Largest Dollar Contract](#top-10-subcontractors-with-largest-dollar-contract)
-  - [Top 10 Subcontractors by Exposure to GC](#top-10-subcontractors-by-exposure-to-gc)
-- [SUB Widgets](#sub-widgets)
-  - [General Details](#general-details)
-  - [Q Score Breakdown](#q-score-breakdown)
-  - [Key Ratios](#key-ratios)
-  - [Similar Subs](#similar-subs)
-  - [Active Contracts](#active-contracts)
-  - [Lumbermens Credit Report](#lumbermens-credit-report)
-  - [Executive Focus](#executive-focus)
-  - [Company Structure](#company-structure)
+## Table of Contents
 
-
+|[GC Widgets](#gc-widgets)|[SUB Widgets](#sub-widgets) |
+| ------------- |:-------------:|
+|[Active Projects](#active-projects)|[General Details](#general-details)|
+|[Average Q Score](#average-q-score)|[Q Score Breakdown](#q-score-breakdown)|
+|[Subs With Liens](#subs-with-liens)|[Key Ratios](#key-ratios)|
+|[Total Project Valuation](#total-project-valuation)|[Active Contracts](#active-contracts)|
+|[Total Active Contracts](#total-active-contracts)|[Lumbermens Credit Report](#lumbermens-credit-report)|
+|[Subs With Stale Data](#subs-with-stale-data)|[Executive Focus](#executive-focus)|
+|[Subs Scored](#subs-scored)|[Company Structure](#company-structure)|
+|[Data Completeness](#data-completeness)|  |
+|[Q Score By Trades](#q-score-by-trades)|  |
+|[Valuation By Trade](#valuation-by-trade)|  |
+|[Provincial Exposure by QScore](#provincial-exposure-by-qscore)|  |
+|[Provincial Exposure by Dollar](#provincial-exposure-by-dollar)|  |
+|[Top 10 Subcontractors by Number of Contract](#top-10-subcontractors-by-number-of-contract)|  |
+|[Top 10 Subcontractors With Largest Dollar Contract](#top-10-subcontractors-with-largest-dollar-contract)|  |
+|[Top 10 Subcontractors by Exposure to GC](#top-10-subcontractors-by-exposure-to-gc)| |
 
 ## GC Widgets
 
 + #### Active Projects
-  the number of total active projects
+  the total number of active projects
 
   ```json
   {
@@ -51,7 +41,7 @@
   ```
 
 + #### Average Q Score
-  the average q-score of all active subs
+  the average q-score of all active subs associated with the gc
 
   ```json
   {
@@ -88,7 +78,7 @@
   ```
 
 + #### Active GC Subs
-  the number of active subs associated with the gc
+  the total number of active subs associated with the gc
 
   ```json
   {
@@ -106,7 +96,7 @@
   ```
 
 + #### Total Project Valuation
-  the  dollar amount of all active contracts
+  the total dollar amount of all active contracts
 
   ```json
   {
@@ -124,7 +114,7 @@
   ```
 
 + #### Total Active Contracts
-  the number of active contracts
+  the total number of active contracts
 
   ```json
   {
@@ -142,7 +132,7 @@
   ```
 
 + #### Subs With Stale Data
-  1. the number of subs with stale data
+  1. the total number of subs with stale data
   2. the percentage of subs with stale data <br/>
 
   ```json
@@ -162,8 +152,8 @@
   ```
 
 + #### Subs Scored
-  1. the number of subs with q-score
-  2. the percentage of subs with q-score <br/>
+  1. the total number of subs that have q-score
+  2. the percentage of subs that have q-score <br/>
 
   ```json
   {
@@ -366,7 +356,7 @@
   ```
 
 + #### Top 10 Subcontractors by Number of Contract
-  the top 10 subs ranked by total number of contracts with gc
+  the top 10 subs ranked by total number of contracts with the gc
 
   ```json
   {
@@ -410,7 +400,7 @@
   ```
 
 + #### Top 10 Subcontractors With Largest Dollar Contract
-  the top 10 subs ranked by current dollar amount with gc
+  the top 10 contracts ranked by current dollar amount
 
   ```json
   {
@@ -457,8 +447,7 @@
   ```
 
 + #### Top 10 Subcontractors by Exposure to GC
-  the top 10 subs ranked by the percentage of total contracts value associated <br/>
-  with the gc
+  the top 10 subs ranked by contracts dollar exposure value to the gc
 
   ```json
   {
@@ -616,7 +605,6 @@
 
 + #### Similar Subs
   get the list of 5 higher ranked and 5 lower ranked subs with the same trade <br/>
-  to the specific sub
 
   ```json
   {
@@ -672,7 +660,7 @@
   ```
 
 + #### Active Contracts
-  the list of active contracts
+  the list of all active contracts
 
   ```json
   {
@@ -817,4 +805,5 @@
     "type": "sub"
   }
   ```
+
 + #### Company Structure
