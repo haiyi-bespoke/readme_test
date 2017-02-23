@@ -16,9 +16,9 @@
 |[Valuation By Trade](#valuation-by-trade)|  |
 |[Provincial Exposure by QScore](#provincial-exposure-by-qscore)|  |
 |[Provincial Exposure by Dollar](#provincial-exposure-by-dollar)|  |
-|[Top 10 Subcontractors by Number of Contract](#top-10-subcontractors-by-number-of-contract)|  |
+|[Top 10 Subcontractors <br/>by Number of Contract](#top-10-subcontractors-by-number-of-contract)|  |
 |[Top 10 Subcontractors With<br/> Largest Dollar Contract](#top-10-subcontractors-with-largest-dollar-contract)|  |
-|[Top 10 Subcontractors by Exposure to GC](#top-10-subcontractors-by-exposure-to-gc)| |
+|[Top 10 Subcontractors <br/> by Exposure to GC](#top-10-subcontractors-by-exposure-to-gc)| |
 
 ## GC Widgets
 
