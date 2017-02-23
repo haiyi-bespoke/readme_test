@@ -3,7 +3,7 @@
 ## Table of Contents
 
 |[GC Widgets](#gc-widgets)|[SUB Widgets](#sub-widgets) |
-| ------------- |:-------------:|
+| :-------------: |:-------------:|
 |[Active Projects](#active-projects)|[General Details](#general-details)|
 |[Average Q Score](#average-q-score)|[Q Score Breakdown](#q-score-breakdown)|
 |[Subs With Liens](#subs-with-liens)|[Key Ratios](#key-ratios)|
